@@ -1,3 +1,3 @@
 # rust_donut
 
-![](https://github.com/saltzer/projects/blob/main/rust_projects/donut/donut.gif)
+![](https://github.com/saltzer/rust_donut/blob/main/donut.gif)
